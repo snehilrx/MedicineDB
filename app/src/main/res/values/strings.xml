@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MedicineDB</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="time_of_day">Time of Day</string>
+    <string name="save">Save</string>
+    <string name="add">add</string>
+    <string name="image">Image</string>
+</resources>
